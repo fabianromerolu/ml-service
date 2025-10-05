@@ -1,8 +1,8 @@
-fastapi
-uvicorn[standard]
-pandas
-scikit-learn
-joblib
-python-dotenv
-category_encoders
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pandas==2.2.2
+scikit-learn==1.6.1
+joblib==1.4.2
+python-dotenv==1.0.1
+category_encoders==2.6.3
 
